@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Devesh Mohan"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Electrical Engineering senior at Iowa State University."
   location         : "Ames, Iowa"
   email            : "dmohan@iastate.edu"
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/deveshmohan22/"
+  linkedin         : "deveshmohan22/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://www.twitter.com/dMohan22/"
+  twitter          : "dMohan22/"
   vine             :
   weibo            :
   xing             :
