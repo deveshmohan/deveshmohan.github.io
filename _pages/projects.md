@@ -9,7 +9,7 @@ author_profile: true
 ### ASABE Robotics Competition | May 2017 – July 2017
 Over the upcoming summer, I will be preparing for the American Society of Agricultural and Biological Engineers (ASABE) robotic challenge, where robots will be required to operate over a simulated sugarcane field. 3 robots will need to autonomously navigate the course through color-based object detection, using a cutting mechanism to remove certain weak and strong canes. Stayed tuned for blog posts documenting my progress.
 <figure>
-  <img src="{{ '/assets/images/asabe.jpg' | absolute_url }}" alt="asabe">
+  <img src="{{ '/assets/images/asabe.JPG' | absolute_url }}" alt="asabe">
     <figcaption>The challenge board for the competition. Legend: Yellow - strong cane, Green - weak cane </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ I will be supporting this study at the following conferences:
 Mascaro Center for Sustainable Engineering Conference - NSF Grant supported attendee - April 10-11, 2017
 National Conference on Undergraduate Research (NCUR) - Poster presentation - April 6-8, 2017
 <figure>
-  <img src="{{ '/assets/images/nrel.jpg' | absolute_url }}" alt="nrel">
+  <img src="{{ '/assets/images/nrel.JPG' | absolute_url }}" alt="nrel">
     <figcaption>This study uses data from the National Renewable Energy Laboratory (NREL) assessment of renewable technologies by region. This image shows  solar production capabilities across the USA</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ National Conference on Undergraduate Research (NCUR) - Poster presentation - Apr
 ### Fatty Acid Detection through Label-free Biosensing  (LIOS) | Aug 2015 – May 2016
 Under Dr. Meng Lu at the Laboratory of Integrated Optical Sensors (LIOS), I worked to develop an optical label-free biosensing system for fatty acid detection/analysis based on plasmonic crystals. I prepared around 40 flow cells over my time, getting used to the delicate procedures of the fabrication. The acrylic cells required precise .75mm drilling and tubing to prevent fluid leakages. Using a lab-developed nanoreplica molding technique, gold coated plasmonic sensor were bonded onto a glass plate and to the fuel cell using UV crosslinkers. The goal was to create a delicate enough cell to pass light onto the plasmonic sensor while the flow cell was running a solution of fatty acid. Data analysis of the surface plasmon resonance was compared to predicted values, to benchmark flow cell build procedure. The intended result to be used by pharmaceutical companies for targeted drug delivery and development. The key here was repetition and hand dexterity.
 <figure>
-  <img src="{{ '/assets/images/lios.jpg' | absolute_url }}" alt="lios">
+  <img src="{{ '/assets/images/pwm.jpg' | absolute_url }}" alt="pwm">
   <figcaption>PMW data from plasmonic sensor</figcaption>
 </figure>
 
