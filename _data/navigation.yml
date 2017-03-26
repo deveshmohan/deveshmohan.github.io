@@ -7,6 +7,6 @@ main:
   - title: "Projects"
     url: /_pages/projects.md
   - title: "Senior Design"
-    url: /_pages/senior_design.md
+    url: /_pages/senior_design.html
   # - title: "Sitemap"
   #   url: /sitemap/
