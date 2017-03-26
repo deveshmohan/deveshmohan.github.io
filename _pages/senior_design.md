@@ -1,5 +1,4 @@
 ---
-permalink: /_pages/senior_design/
 title: "Senior Design"
 layout: home
 author_profile: true
