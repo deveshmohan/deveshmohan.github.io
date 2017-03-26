@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: /index.html
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
   - title: "Projects"
     url: /_pages/projects.md
+  - title: "Work Experience"
+    url: /_pages/work_exp.md
   - title: "Senior Design"
-    url: /_pages/senior_design.md
+    url: /senior_design/
   # - title: "Sitemap"
   #   url: /sitemap/
