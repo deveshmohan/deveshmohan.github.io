@@ -1,6 +1,6 @@
 ---
 permalink: /_pages/about
-title: "Senior Design"
+title: "About Me"
 layout: single
 author_profile: true
 header:
