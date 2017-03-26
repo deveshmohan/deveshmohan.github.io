@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Devesh Mohan"
   avatar           : "/assets/images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Electrical Engineering senior at Iowa State University."
+  bio              : "Electrical Engineering Senior at Iowa State University."
   location         : "Ames, Iowa"
   email            : "dmohan@iastate.edu"
   uri              :
@@ -252,3 +252,5 @@ defaults:
       type: pages
     values:
       layout: single
+
+include: ["_pages"]
