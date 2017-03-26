@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /_pages/projects.md
+    url: /projects/
   - title: "Work Experience"
-    url: /_pages/work_exp.md
+    url: /work_exp/
   - title: "Senior Design"
     url: /senior_design/
   # - title: "Sitemap"
