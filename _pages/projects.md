@@ -29,7 +29,7 @@ National Conference on Undergraduate Research (NCUR) - Poster presentation - Apr
 ### Fatty Acid Detection through Label-free Biosensing  (LIOS) | Aug 2015 – May 2016
 Under Dr. Meng Lu at the Laboratory of Integrated Optical Sensors (LIOS), I worked to develop an optical label-free biosensing system for fatty acid detection/analysis based on plasmonic crystals. I prepared around 40 flow cells over my time, getting used to the delicate procedures of the fabrication. The acrylic cells required precise .75mm drilling and tubing to prevent fluid leakages. Using a lab-developed nanoreplica molding technique, gold coated plasmonic sensor were bonded onto a glass plate and to the fuel cell using UV crosslinkers. The goal was to create a delicate enough cell to pass light onto the plasmonic sensor while the flow cell was running a solution of fatty acid. Data analysis of the surface plasmon resonance was compared to predicted values, to benchmark flow cell build procedure. The intended result to be used by pharmaceutical companies for targeted drug delivery and development. The key here was repetition and hand dexterity.
 <figure>
-  <img src="{{ '/assets/images/pwm.jpg' | absolute_url }}" alt="pwm">
+  <img src="{{ '/assets/images/pwm.jpeg' | absolute_url }}" alt="pwm">
   <figcaption>PMW data from plasmonic sensor</figcaption>
 </figure>
 
