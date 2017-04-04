@@ -9,7 +9,7 @@ author_profile: true
 ### Winner - $1,000 Innovation Pitch Competition | April 2017
 I participated in an innovation pitch competition sponsored by ISU Center of Entrepreneurship, with a winning pitch for innovation in Agricultural Technology. My pitch was "Wasabi Farming in Iowa," which presented the possibility of growing the hardest plant in the world, wasabi, in controlled environment greenhouses in Iowa. I am exploring this idea further with faculty at the ISU College of Agriculture.
 <figure>
-  <img src="{{ '/assets/images/wasabi.jpeg' | absolute_url }}" alt="wasabi">
+  <img src="{{ '/assets/images/wasabi.png' | absolute_url }}" alt="wasabi">
     <figcaption>Here is a picture of me pitching the idea. I wish it were a more flattering picture.</figcaption>
 </figure>
 
