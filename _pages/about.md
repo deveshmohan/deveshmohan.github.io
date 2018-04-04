@@ -16,7 +16,8 @@ I was born in New York, but lived in New Delhi, India for many years and complet
 
 My goals for the future are to attend graduate school. I am very interested in robotics and automation (relevant projects are mentioned on the projects page). With my background in Integrated Circuits, I look forward to bringing those skills to circuit design companies.
 
-You may find my resume here: <a href="https://github.com/deveshmohan/Resume/blob/master/Mohan%20Devesh%20Resume%20Spring%202018.pdf">Resume Jan 2018</a>
+You may find my resume here:
+<a href = "https://github.com/deveshmohan/Resume/blob/master/Mohan%20Devesh%20Resume%20Spring%202018.pdf">Resume Jan 2018</a>
 
 
 <figure>
