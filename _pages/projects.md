@@ -24,15 +24,6 @@ National Conference on Undergraduate Research (NCUR) - Poster presentation - Apr
     <figcaption>This study uses data from the National Renewable Energy Laboratory (NREL) assessment of renewable technologies by region. This image shows  solar production capabilities across the USA</figcaption>
 </figure>
 
-## Upcoming Projects
-
-### ASABE Robotics Competition | May 2017 – July 2017
-Over the upcoming summer, I will be preparing for the American Society of Agricultural and Biological Engineers (ASABE) robotic challenge, where robots will be required to operate over a simulated sugarcane field. 3 robots will need to autonomously navigate the course through color-based object detection, using a cutting mechanism to remove certain weak and strong canes. Stayed tuned for blog posts documenting my progress.
-<figure>
-  <img src="{{ '/assets/images/asabe.JPG' | absolute_url }}" alt="asabe">
-    <figcaption>The challenge board for the competition. Legend: Yellow - strong cane, Green - weak cane </figcaption>
-</figure>
-
 ## University Project Work
 
 ### Fatty Acid Detection through Label-free Biosensing  (LIOS) | Aug 2015 – May 2016
